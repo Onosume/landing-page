@@ -43,12 +43,17 @@ body .row {
     padding: 10px;;
 }
 
+body .row::after {
+    content:"";
+    clear: both;
+    display: block;
+}
+
 body .row a {
     text-align: center;
     text-decoration: none;
     color: #ffffff
 }
-
 
 .col-sm-4 {
     width: 33.33%;
@@ -57,12 +62,12 @@ body .row a {
     border: none;
 }
 
-.row::after {
-    content:"";
-    clear: both;
-    display: block;
-}
-
 .link-hover:hover {
     color: #ff6600;
+}
+
+.image-centred {
+    padding: 15px;
+    text-align: center;
+    display: block;
 }
