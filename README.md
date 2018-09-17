@@ -2,12 +2,16 @@
 
 ## What Is This?
 
-This is a landing page for my personal website. It helps people decide where they want to go when looking for me on the internet.
+This is a landing page that helps people choose where they want to go when looking for me on the internet.
 
-## What Does It Use
+It's basically a list of links to websites I own/manage, projects I'm involved with and my social profiles.
+
+## What Does It Use?
 
 Simple HTML & CSS
 
-## Can I Use This For My Own Landing Page?
+## Credit
 
-I guess you could adapt it yeah, just follow the license.
+Developed by Matthew Tinn.
+
+Slightly adapted from and inspired by https://github.com/colons/colons.co. Please follow them, they are a cool interent person.
