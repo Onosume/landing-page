@@ -12,6 +12,4 @@ Simple HTML & CSS
 
 ## Credit
 
-Developed by Matthew Tinn.
-
-Slightly adapted from and inspired by https://github.com/colons/colons.co. Please follow them, they are a cool interent person.
+Developed by Matthew Jennifer Tinn.
